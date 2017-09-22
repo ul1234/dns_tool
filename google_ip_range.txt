@@ -1,0 +1,525 @@
+Hurricane Electric
+
+Quick Links
+BGP Toolkit Home
+BGP Prefix Report
+BGP Peer Report
+Bogon Routes
+World Report
+Multi Origin Routes
+DNS Report
+Top Host Report
+Internet Statistics
+Looking Glass
+Free IPv6 Tunnel
+IPv6 Certification
+IPv6 Progress
+Going Native
+Contact Us
+Hurricane Electric on Twitter  Hurricane Electric on Facebook
+Search Results
+Result	Description
+AS45566	AS number for Google Corporate Network in APACIndia
+AS41264	Google Switzerland GmbHSwitzerland
+AS36987	Google KenyaKenya
+AS36492	Google, Inc.United States
+AS36385	Google IncorporatedUnited States
+AS36384	Google IncorporatedUnited States
+AS36040	Google Inc.United States
+AS36039	Google Inc.United States
+AS22859	Google Inc.United States
+AS22577	Google Inc.United States
+AS19448	Google Fiber Inc.United States
+AS16591	Google Fiber Inc.United States
+AS15169	Google Inc.United States
+93.123.23.0/24	Google Global Cache for NetIXBulgaria
+89.207.224.0/21	Google Switzerland GmbHSwitzerland
+84.235.77.0/24	Assigned for GOOGLE caches Riydh IGW & Jedah IGWSaudi Arabia
+8.8.8.0/24	Google Inc.United States
+8.8.4.0/24	Google Inc.United States
+8.6.48.0/21	Google, Inc.United States
+8.35.200.0/21	Google Inc.United States
+8.35.192.0/21	Google Inc.United States
+8.34.216.0/21	Google Inc.United States
+8.34.208.0/21	Google Inc.United States
+8.22.56.0/21	Google Fiber Inc.United States
+8.15.202.0/24	Google Inc.United States
+74.125.90.0/23	Google Inc.United States
+74.125.88.0/23	Google Inc.United States
+74.125.76.0/24	Google Inc.United States
+74.125.74.0/24	Google Inc.United States
+74.125.73.0/24	Google Inc.United States
+74.125.72.0/24	Google Inc.United States
+74.125.70.0/24	Google Inc.United States
+74.125.68.0/24	Google Inc.United States
+74.125.63.0/24	Google IncorporatedUnited States
+74.125.62.0/24	Google Inc.United States
+74.125.58.0/24	Google IncorporatedUnited States
+74.125.54.0/23	Google Inc.United States
+74.125.45.0/24	Google Inc.United States
+74.125.43.0/24	Google Inc.United States
+74.125.42.0/24	Google Inc.United States
+74.125.41.0/24	Google Inc.United States
+74.125.40.0/24	Google Inc.United States
+74.125.37.0/24	Google Inc.United States
+74.125.36.0/24	Google Inc.United States
+74.125.31.0/24	Google Inc.United States
+74.125.30.0/24	Google Inc.United States
+74.125.29.0/24	Google Inc.United States
+74.125.28.0/24	Google Inc.United States
+74.125.27.0/24	Google Inc.United States
+74.125.26.0/24	Google Inc.United States
+74.125.25.0/24	Google Inc.United States
+74.125.246.0/24	Google Inc.United States
+74.125.245.0/24	Google Inc.United States
+74.125.244.0/24	Google Inc.United States
+74.125.24.0/24	Google Inc.United States
+74.125.239.0/24	Google Inc.United States
+74.125.238.0/24	Google Inc.United States
+74.125.237.0/24	Google Inc.United States
+74.125.236.0/24	Google Inc.United States
+74.125.235.0/24	Google Inc.United States
+74.125.234.0/24	Google Inc.United States
+74.125.233.0/24	Google Inc.United States
+74.125.232.0/24	Google Inc.United States
+74.125.231.0/24	Google Inc.United States
+74.125.230.0/24	Google Inc.United States
+74.125.23.0/24	Google Inc.United States
+74.125.229.0/24	Google Inc.United States
+74.125.228.0/24	Google Inc.United States
+74.125.227.0/24	Google Inc.United States
+74.125.226.0/24	Google Inc.United States
+74.125.225.0/24	Google Inc.United States
+74.125.224.0/24	Google Inc.United States
+74.125.22.0/24	Google Inc.United States
+74.125.21.0/24	Google Inc.United States
+74.125.207.0/24	Google Inc.United States
+74.125.206.0/24	Google Inc.United States
+74.125.205.0/24	Google Inc.United States
+74.125.204.0/24	Google Inc.United States
+74.125.203.0/24	Google Inc.United States
+74.125.201.0/24	Google Inc.United States
+74.125.200.0/24	Google Inc.United States
+74.125.20.0/24	Google Inc.United States
+74.125.198.0/24	Google Inc.United States
+74.125.196.0/24	Google Inc.United States
+74.125.195.0/24	Google Inc.United States
+74.125.194.0/24	Google Inc.United States
+74.125.193.0/24	Google Inc.United States
+74.125.192.0/24	Google Inc.United States
+74.125.191.0/24	Google Inc.United States
+74.125.190.0/24	Google Inc.United States
+74.125.19.0/24	Google Inc.United States
+74.125.189.0/24	Google Inc.United States
+74.125.188.0/24	Google Inc.United States
+74.125.187.0/24	Google Inc.United States
+74.125.186.0/24	Google Inc.United States
+74.125.185.0/24	Google Inc.United States
+74.125.184.0/24	Google Inc.United States
+74.125.183.0/24	Google Inc.United States
+74.125.182.0/24	Google Inc.United States
+74.125.181.0/24	Google Inc.United States
+74.125.180.0/24	Google Inc.United States
+74.125.18.0/24	Google Inc.United States
+74.125.179.0/24	Google Inc.United States
+74.125.178.0/24	Google Inc.United States
+74.125.177.0/24	Google Inc.United States
+74.125.176.0/24	Google Inc.United States
+74.125.17.0/24	Google Inc.United States
+74.125.16.0/24	Google Inc.United States
+74.125.151.0/24	Google Inc.United States
+74.125.150.0/24	Google Inc.United States
+74.125.149.0/24	Google Inc.United States
+74.125.148.0/24	Google Inc.United States
+74.125.143.0/24	Google Inc.United States
+74.125.142.0/24	Google Inc.United States
+74.125.141.0/24	Google Inc.United States
+74.125.140.0/24	Google Inc.United States
+74.125.139.0/24	Google Inc.United States
+74.125.138.0/24	Google Inc.United States
+74.125.137.0/24	Google Inc.United States
+74.125.136.0/24	Google Inc.United States
+74.125.135.0/24	Google Inc.United States
+74.125.134.0/24	Google Inc.United States
+74.125.133.0/24	Google Inc.United States
+74.125.132.0/24	Google Inc.United States
+74.125.131.0/24	Google Inc.United States
+74.125.130.0/24	Google Inc.United States
+74.125.129.0/24	Google Inc.United States
+74.125.128.0/24	Google Inc.United States
+74.125.125.0/24	Google Inc.United States
+74.125.123.0/24	Google Inc.United States
+74.125.122.0/24	Google IncorporatedUnited States
+74.125.121.0/24	Google IncorporatedUnited States
+74.125.120.0/24	Google IncorporatedUnited States
+74.125.119.0/24	Google IncorporatedUnited States
+74.125.118.0/24	Google IncorporatedUnited States
+74.125.117.0/24	Google IncorporatedUnited States
+74.125.116.0/24	Google IncorporatedUnited States
+74.125.0.0/16	Google Inc.United States
+72.14.252.0/24	Google Inc.United States
+72.14.244.0/23	Google Inc.United States
+72.14.228.0/24	Google IncorporatedUnited States
+72.14.226.0/24	Google IncorporatedUnited States
+72.14.225.0/24	Google IncorporatedUnited States
+72.14.208.0/23	Google Inc.United States
+72.14.202.0/23	Google Inc.United States
+72.14.199.0/24	Google Inc.United States
+72.14.192.0/18	Google Inc.United States
+70.32.158.0/24	Google Inc.United States
+70.32.148.0/23	Google Inc.United States
+70.32.146.0/24	Google Inc.United States
+70.32.144.0/24	Google Inc.United States
+70.32.142.0/23	Google Inc.United States
+70.32.140.0/23	Google Inc.United States
+70.32.134.0/23	Google Inc.United States
+70.32.133.0/24	Google Inc.United States
+70.32.132.0/24	Google Inc.United States
+70.32.131.0/24	Google Inc.United States
+70.32.130.0/24	Google Inc.United States
+70.32.128.0/19	Google Inc.United States
+66.249.93.0/24	Google Inc.United States
+66.249.92.0/24	Google Inc.United States
+66.249.91.0/24	Google Inc.United States
+66.249.90.0/24	Google Inc.United States
+66.249.89.0/24	Google Inc.United States
+66.249.88.0/24	Google Inc.United States
+66.249.85.0/24	Google Inc.United States
+66.249.84.0/24	Google Inc.United States
+66.249.83.0/24	Google Inc.United States
+66.249.82.0/24	Google Inc.United States
+66.249.81.0/24	Google Inc.United States
+66.249.80.0/24	Google Inc.United States
+66.249.79.0/24	Google Inc.United States
+66.249.78.0/24	Google Inc.United States
+66.249.77.0/24	Google Inc.United States
+66.249.76.0/24	Google Inc.United States
+66.249.75.0/24	Google Inc.United States
+66.249.74.0/24	Google Inc.United States
+66.249.73.0/24	Google Inc.United States
+66.249.72.0/24	Google Inc.United States
+66.249.71.0/24	Google Inc.United States
+66.249.70.0/24	Google Inc.United States
+66.249.69.0/24	Google Inc.United States
+66.249.68.0/24	Google Inc.United States
+66.249.67.0/24	Google Inc.United States
+66.249.66.0/24	Google Inc.United States
+66.249.65.0/24	Google Inc.United States
+66.249.64.0/24	Google Inc.United States
+66.249.64.0/19	Google Inc.United States
+66.102.4.0/24	Google Inc.United States
+66.102.3.0/24	Google Inc.United States
+66.102.2.0/24	Google Inc.United States
+66.102.0.0/20	Google Inc.United States
+64.9.224.0/20	Google, Inc.United States
+64.9.224.0/19	Google, Inc.United States
+64.233.172.0/24	Google Inc.United States
+64.233.171.0/24	Google Inc.United States
+64.233.168.0/24	Google Inc.United States
+64.233.168.0/23	Google Inc.United States
+64.233.165.0/24	Google Inc.United States
+64.233.164.0/24	Google Inc.United States
+64.233.160.0/24	Google Inc.United States
+64.233.160.0/19	Google Inc.United States
+63.243.168.0/24	Google Fiber Inc.Canada
+62.201.216.0/24	IQ Networks Google Global Cache in BaghdadIraq
+41.84.159.0/24	KDN-Google-poolMauritius
+41.206.96.0/24	Assignment made to the Google Global Cache.Mauritius
+2c0f:feb1::/48	Assignment made to the Google Global Cache.Mauritius
+2c0f:fb50::/32	Google Kenya LimitedKenya
+2a00:79e0::/48	Google EMEA OfficesSwitzerland
+2a00:79e0::/32	Google Switzerland GmbHSwitzerland
+2a00:79e0:0004::/48	Google EMEA OfficesSwitzerland
+2a00:1450::/32	Google Ireland LimitedIreland
+2800:03f0::/32	Google Argentina SRLArgentina
+2620:015c::/48	Google IncorporatedUnited States
+2620:015c::/40	Google IncorporatedUnited States
+2620:015c::/36	Google IncorporatedUnited States
+2620:015c:0006::/48	Google IncorporatedUnited States
+2620:015c:0001::/48	Google IncorporatedUnited States
+2620:0000:10e1::/48	Google IncorporatedUnited States
+2620:0000:10e0::/48	Google IncorporatedUnited States
+2620:0000:10cc::/48	Google IncorporatedUnited States
+2620:0000:10c9::/48	Google IncorporatedUnited States
+2620:0000:10c8::/48	Google IncorporatedUnited States
+2620:0000:10c2::/48	Google IncorporatedUnited States
+2620:0000:10c1::/48	Google IncorporatedUnited States
+2620:0000:10c0::/48	Google IncorporatedUnited States
+2620:0000:107f::/48	Google IncorporatedUnited States
+2620:0000:107e::/48	Google IncorporatedUnited States
+2620:0000:107c::/48	Google IncorporatedUnited States
+2620:0000:107b::/48	Google IncorporatedUnited States
+2620:0000:107a::/48	Google IncorporatedUnited States
+2620:0000:1079::/48	Google IncorporatedUnited States
+2620:0000:1078::/48	Google IncorporatedUnited States
+2620:0000:1077::/48	Google IncorporatedUnited States
+2620:0000:1076::/48	Google IncorporatedUnited States
+2620:0000:1075::/48	Google IncorporatedUnited States
+2620:0000:1074::/48	Google IncorporatedUnited States
+2620:0000:1073::/48	Google IncorporatedUnited States
+2620:0000:1072::/48	Google IncorporatedUnited States
+2620:0000:1071::/48	Google IncorporatedUnited States
+2620:0000:1070::/48	Google IncorporatedUnited States
+2620:0000:106f::/48	Google IncorporatedUnited States
+2620:0000:106e::/48	Google IncorporatedUnited States
+2620:0000:106c::/48	Google IncorporatedUnited States
+2620:0000:106b::/48	Google IncorporatedUnited States
+2620:0000:106a::/48	Google IncorporatedUnited States
+2620:0000:1069::/48	Google IncorporatedUnited States
+2620:0000:1068::/48	Google IncorporatedUnited States
+2620:0000:1067::/48	Google IncorporatedUnited States
+2620:0000:1066::/48	Google IncorporatedUnited States
+2620:0000:1065::/48	Google IncorporatedUnited States
+2620:0000:1064::/48	Google IncorporatedUnited States
+2620:0000:1063::/48	Google IncorporatedUnited States
+2620:0000:1060::/48	Google IncorporatedUnited States
+2620:0000:105f::/48	Google IncorporatedUnited States
+2620:0000:105e::/48	Google IncorporatedUnited States
+2620:0000:105d::/48	Google IncorporatedUnited States
+2620:0000:105b::/48	Google IncorporatedUnited States
+2620:0000:105a::/48	Google IncorporatedUnited States
+2620:0000:1059::/48	Google IncorporatedUnited States
+2620:0000:1058::/48	Google IncorporatedUnited States
+2620:0000:1057::/48	Google IncorporatedUnited States
+2620:0000:1056::/48	Google IncorporatedUnited States
+2620:0000:1055::/48	Google IncorporatedUnited States
+2620:0000:1054::/48	Google IncorporatedUnited States
+2620:0000:1053::/48	Google IncorporatedUnited States
+2620:0000:1052::/48	Google IncorporatedUnited States
+2620:0000:1051::/48	Google IncorporatedUnited States
+2620:0000:1050::/48	Google IncorporatedUnited States
+2620:0000:104f::/48	Google IncorporatedUnited States
+2620:0000:104e::/48	Google IncorporatedUnited States
+2620:0000:104d::/48	Google IncorporatedUnited States
+2620:0000:104c::/48	Google IncorporatedUnited States
+2620:0000:104b::/48	Google IncorporatedUnited States
+2620:0000:104a::/48	Google IncorporatedUnited States
+2620:0000:1049::/48	Google IncorporatedUnited States
+2620:0000:1048::/48	Google IncorporatedUnited States
+2620:0000:1047::/48	Google IncorporatedUnited States
+2620:0000:1046::/48	Google IncorporatedUnited States
+2620:0000:1045::/48	Google IncorporatedUnited States
+2620:0000:1044::/48	Google IncorporatedUnited States
+2620:0000:1043::/48	Google IncorporatedUnited States
+2620:0000:1042::/48	Google IncorporatedUnited States
+2620:0000:1040::/48	Google IncorporatedUnited States
+2620:0000:103d::/48	Google IncorporatedUnited States
+2620:0000:103b::/48	Google IncorporatedUnited States
+2620:0000:103a::/48	Google IncorporatedUnited States
+2620:0000:1039::/48	Google IncorporatedUnited States
+2620:0000:1037::/48	Google IncorporatedUnited States
+2620:0000:1036::/48	Google IncorporatedUnited States
+2620:0000:1035::/48	Google IncorporatedUnited States
+2620:0000:1034::/48	Google IncorporatedUnited States
+2620:0000:1033::/48	Google IncorporatedUnited States
+2620:0000:1032::/48	Google IncorporatedUnited States
+2620:0000:1031::/48	Google IncorporatedUnited States
+2620:0000:1030::/48	Google IncorporatedUnited States
+2620:0000:102f::/48	Google IncorporatedUnited States
+2620:0000:102d::/48	Google IncorporatedUnited States
+2620:0000:102c::/48	Google IncorporatedUnited States
+2620:0000:102b::/48	Google IncorporatedUnited States
+2620:0000:102a::/48	Google IncorporatedUnited States
+2620:0000:1029::/48	Google IncorporatedUnited States
+2620:0000:1028::/48	Google IncorporatedUnited States
+2620:0000:1025::/48	Google IncorporatedUnited States
+2620:0000:1024::/48	Google IncorporatedUnited States
+2620:0000:1023::/48	Google IncorporatedUnited States
+2620:0000:1022::/48	Google IncorporatedUnited States
+2620:0000:1021::/48	Google IncorporatedUnited States
+2620:0000:1020::/48	Google IncorporatedUnited States
+2620:0000:101f::/48	Google IncorporatedUnited States
+2620:0000:101e::/48	Google IncorporatedUnited States
+2620:0000:101d::/48	Google IncorporatedUnited States
+2620:0000:101c::/48	Google IncorporatedUnited States
+2620:0000:101b::/48	Google IncorporatedUnited States
+2620:0000:101a::/48	Google IncorporatedUnited States
+2620:0000:1019::/48	Google IncorporatedUnited States
+2620:0000:1018::/48	Google IncorporatedUnited States
+2620:0000:1017::/48	Google IncorporatedUnited States
+2620:0000:1016::/48	Google IncorporatedUnited States
+2620:0000:1014::/48	Google IncorporatedUnited States
+2620:0000:1013::/48	Google IncorporatedUnited States
+2620:0000:1012::/48	Google IncorporatedUnited States
+2620:0000:1011::/48	Google IncorporatedUnited States
+2620:0000:1010::/48	Google IncorporatedUnited States
+2620:0000:100f::/48	Google IncorporatedUnited States
+2620:0000:100e::/48	Google IncorporatedUnited States
+2620:0000:100d::/48	Google IncorporatedUnited States
+2620:0000:100c::/48	Google IncorporatedUnited States
+2620:0000:100a::/48	Google IncorporatedUnited States
+2620:0000:1009::/48	Google IncorporatedUnited States
+2620:0000:1008::/48	Google IncorporatedUnited States
+2620:0000:1007::/48	Google IncorporatedUnited States
+2620:0000:1006::/48	Google IncorporatedUnited States
+2620:0000:1005::/48	Google IncorporatedUnited States
+2620:0000:1004::/48	Google IncorporatedUnited States
+2620:0000:1003::/48	Google IncorporatedUnited States
+2620:0000:1002::/48	Google IncorporatedUnited States
+2620:0000:1001::/48	Google IncorporatedUnited States
+2620:0000:1000::/48	Google IncorporatedUnited States
+2620:0000:1000::/42	Google IncorporatedUnited States
+2620:0000:1000::/40	Google IncorporatedUnited States
+2607:f8b0::/32	Google Inc.United States
+2605:a601::/32	Google Fiber Inc.United States
+2605:a600:ff00::/48	Google Fiber Inc.United States
+2605:a600:fe00::/48	Google Fiber Inc.United States
+2605:a600::/40	Google Fiber Inc.United States
+2604:ca00::/32	Google, Inc.United States
+2600:1900::/28	Google Inc.United States
+2404:6800::/32	Google IPv6 address block in APAustralia
+2401:fa00::/48	Google Corporate NetworkIndia
+2401:fa00::/42	Google Corporate NetworkIndia
+2401:fa00::/32	Google Corporate NetworkIndia
+2401:fa00:0042::/48	Google Corporate NetworkIndia
+2401:fa00:0041::/48	Google Corporate NetworkIndia
+2401:fa00:0040::/48	Google Corporate NetworkIndia
+2401:fa00:003f::/48	Google Corporate NetworkIndia
+2401:fa00:003e::/48	Google Corporate NetworkIndia
+2401:fa00:003d::/48	Google Corporate NetworkIndia
+2401:fa00:001a::/48	Google Corporate NetworkIndia
+2401:fa00:0019::/48	Google Corporate NetworkIndia
+2401:fa00:0018::/48	Google Corporate NetworkIndia
+2401:fa00:0017::/48	Google Corporate NetworkIndia
+2401:fa00:0016::/48	Google Corporate NetworkIndia
+2401:fa00:0015::/48	Google Corporate NetworkIndia
+2401:fa00:0014::/48	Google Corporate NetworkIndia
+2401:fa00:0013::/48	Google Corporate NetworkIndia
+2401:fa00:0012::/48	Google Corporate NetworkIndia
+2401:fa00:0011::/48	Google Corporate NetworkIndia
+2401:fa00:0010::/48	Google Corporate NetworkIndia
+2401:fa00:000f::/48	Google Corporate NetworkIndia
+2401:fa00:000d::/48	Google Corporate NetworkIndia
+2401:fa00:000c::/48	Google Corporate NetworkIndia
+2401:fa00:000b::/48	Google Corporate NetworkIndia
+2401:fa00:000a::/48	Google Corporate NetworkIndia
+2401:fa00:0009::/48	Google Corporate NetworkIndia
+2401:fa00:0008::/48	Google Corporate NetworkIndia
+2401:fa00:0007::/48	Google Corporate NetworkIndia
+2401:fa00:0006::/48	Google Corporate NetworkIndia
+2401:fa00:0005::/48	Google Corporate NetworkIndia
+2401:fa00:0004::/48	Google Corporate NetworkIndia
+2401:fa00:0003::/48	Google Corporate NetworkIndia
+2401:fa00:0002::/48	Google Corporate NetworkIndia
+2401:fa00:0001::/48	Google Corporate NetworkIndia
+23.255.128.0/17	Google Fiber Inc.United States
+23.251.128.0/19	Google Inc.United States
+23.236.48.0/20	Google Inc.United States
+23.228.128.0/18	Google Fiber Inc.United States
+217.163.7.0/24	Google-IncUnited Kingdom
+216.58.192.0/19	Google Inc.United States
+216.239.60.0/24	Google Inc.United States
+216.239.44.0/23	Google IncorporatedUnited States
+216.239.39.0/24	Google IncorporatedUnited States
+216.239.38.0/24	Google Inc.United States
+216.239.36.0/24	Google Inc.United States
+216.239.35.0/24	Google IncorporatedUnited States
+216.239.34.0/24	Google Inc.United States
+216.239.33.0/24	Google IncorporatedUnited States
+216.239.32.0/24	Google Inc.United States
+216.239.32.0/19	Google Inc.United States
+216.21.160.0/20	Google Fiber Inc.United States
+212.188.15.0/24	GoogleRussian Federation
+209.85.238.0/24	Google Inc.United States
+209.85.228.0/23	Google Inc.United States
+209.85.128.0/17	Google Inc.United States
+207.223.160.0/20	Google Inc.United States
+2001:4860::/32	Google Inc.United States
+2001:4860:4805::/48	Google Inc.United States
+2001:1900:2292::/48	Google Inc.United States
+199.223.232.0/21	Google Inc.United States
+199.192.112.0/22	Google Inc.United States
+197.199.254.0/24	Google Cache cluster-01Egypt
+197.199.253.0/24	Google Cache cluster-02Egypt
+193.186.4.0/24	Google Ireland LimitedPoland
+193.142.125.0/24	Google ZurichSwitzerland
+192.200.224.0/19	Google Fiber Inc.United States
+192.178.0.0/15	Google Inc.United States
+192.158.28.0/22	Google Inc.United States
+192.119.21.0/24	Google Fiber Inc.United States
+192.119.20.0/24	Google Fiber Inc.United States
+192.119.16.0/20	Google Fiber Inc.United States
+173.255.112.0/20	Google Inc.United States
+173.194.99.0/24	Google Inc.United States
+173.194.98.0/24	Google Inc.United States
+173.194.97.0/24	Google Inc.United States
+173.194.96.0/24	Google Inc.United States
+173.194.79.0/24	Google Inc.United States
+173.194.78.0/24	Google Inc.United States
+173.194.77.0/24	Google Inc.United States
+173.194.76.0/24	Google Inc.United States
+173.194.75.0/24	Google Inc.United States
+173.194.74.0/24	Google Inc.United States
+173.194.73.0/24	Google Inc.United States
+173.194.72.0/24	Google Inc.United States
+173.194.71.0/24	Google Inc.United States
+173.194.70.0/24	Google Inc.United States
+173.194.69.0/24	Google Inc.United States
+173.194.68.0/24	Google Inc.United States
+173.194.67.0/24	Google Inc.United States
+173.194.66.0/24	Google Inc.United States
+173.194.65.0/24	Google Inc.United States
+173.194.64.0/24	Google Inc.United States
+173.194.47.0/24	Google Inc.United States
+173.194.46.0/24	Google Inc.United States
+173.194.45.0/24	Google Inc.United States
+173.194.44.0/24	Google Inc.United States
+173.194.43.0/24	Google Inc.United States
+173.194.42.0/24	Google Inc.United States
+173.194.41.0/24	Google Inc.United States
+173.194.40.0/24	Google Inc.United States
+173.194.39.0/24	Google Inc.United States
+173.194.38.0/24	Google Inc.United States
+173.194.37.0/24	Google Inc.United States
+173.194.36.0/24	Google Inc.United States
+173.194.35.0/24	Google Inc.United States
+173.194.34.0/24	Google Inc.United States
+173.194.33.0/24	Google Inc.United States
+173.194.32.0/24	Google Inc.United States
+173.194.142.0/24	Google Inc.United States
+173.194.141.0/24	Google Inc.United States
+173.194.140.0/24	Google Inc.United States
+173.194.136.0/24	Google Inc.United States
+173.194.127.0/24	Google Inc.United States
+173.194.126.0/24	Google Inc.United States
+173.194.124.0/24	Google Inc.United States
+173.194.121.0/24	Google Inc.United States
+173.194.120.0/24	Google Inc.United States
+173.194.119.0/24	Google Inc.United States
+173.194.118.0/24	Google Inc.United States
+173.194.117.0/24	Google Inc.United States
+173.194.113.0/24	Google Inc.United States
+173.194.112.0/24	Google Inc.United States
+173.194.0.0/16	Google Inc.United States
+172.253.0.0/16	Google Inc.United States
+172.217.0.0/16	Google Inc.United States
+162.222.176.0/21	Google Inc.United States
+162.216.148.0/22	Google Inc.United States
+149.3.177.0/24	GoogleItaly
+149.126.86.0/24	Google Global CacheIceland
+146.148.0.0/17	Google Inc.United States
+142.250.0.0/15	Google Inc.United States
+130.211.0.0/16	Google Inc.United States
+12.216.80.0/24	GOOGLE INC.United States
+118.174.27.0/24	IP Assignment for Google Caching SystemsThailand
+118.174.26.0/24	IP Assignment for Google Caching SystemsThailand
+118.174.25.0/24	IP Assignment for Google Caching SystemsThailand
+118.174.24.0/24	IP Assignment for Google Caching SystemsThailand
+113.197.106.0/24	Google Australia's Corporate NetworkIndia
+113.197.105.0/24	Google Hong Kong's Corporate NetworkIndia
+111.92.162.0/24	AKAMAI - GOOGLE GLOBAL CACHEIndonesia
+108.59.80.0/20	Google Inc.United States
+108.177.0.0/17	Google Inc.United States
+108.170.192.0/18	Google Inc.United States
+107.188.128.0/17	Google Fiber Inc.United States
+107.178.192.0/18	Google Inc.United States
+107.167.160.0/19	Google Inc.United States
+103.25.178.0/24	IXSFORALL GOOGLE GLOBAL CACHEPhilippines
+103.246.187.0/24	Google Australia Pty LimitedAustralia
+1.179.253.0/24	Static IP address for Google-caching serversThailand
+1.179.252.0/24	Static IP address for Google-caching serversThailand
+1.179.251.0/24	Static IP address for Google-caching serversThailand
+1.179.250.0/24	Static IP address for Google-caching serversThailand
+1.179.249.0/24	Static IP address for Google-caching serversThailand
+1.179.248.0/24	Static IP address for Google-caching serversThailand
+Updated 13 Jun 2014 07:53 PST © 2014 Hurricane Electric
